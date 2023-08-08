@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KayeCus
 - 👀 I’m interested in creating websites and apps.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... e-mail me @ kkaye.custodio@gmail.com
 
 <!---
 KayeCus/KayeCus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
